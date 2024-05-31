@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate Back-End developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **ASP.NET MVC**
+- 🌱 I’m currently learning **Django**
 
-- 🌱 I’m currently learning **ASP.NET MVC**
-
-- 👯 I’m looking to collaborate on **ASP.NET MVC**
+- 👯 I’m looking to collaborate on **Python**
 
 - 🤝 I’m looking for help with **ReactJS and Python**
 
