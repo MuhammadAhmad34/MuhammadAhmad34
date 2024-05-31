@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Back-End developer from Pakistan</h3>
+<h3 align="center">A passionate Back-End developer and AI/ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **Django**
 
