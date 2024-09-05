@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Back-End developer and AI/ML Enthusiast</h3>
-
-- 🌱 I’m currently learning **Django**
+<h3 align="center">Junior Data Engineer and AI/ML Enthusiast</h3>
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 🤝 I’m looking for help with **ReactJS and Python**
+- 🤝 I’m looking for help with **Python and Data Engineering tools**
 
-- 💬 Ask me about **ReactJS and Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **m.ahmadamjad21@gmail.com**
 
